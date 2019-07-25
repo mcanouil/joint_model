@@ -1,1037 +1,0 @@
-
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/parameters_table_90756bef13eab071aab3f0a489f11fbb.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/prokopenko_7bce2090002e55e0abbc2827b1753e70.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/scott1_b619f29d0c35a0cfb26153882be8b872.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/scott2_699cfd4d701ed3e2535e32229001a712.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.rdb[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.rdb[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/t2dhistory_8da2e2ac84cdd7a681b972aeea0a73c5.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/yaghootkar1_20d564477e19280f1031e2fe18e62ea8.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/yaghootkar2_3ff77b4df9b407f8456beea4478bb1a4.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdx[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ JointModel[K[K[K[K[K[K[K[K[K[Kgss
-On branch master
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mdeleted:    JointModel/images/effect_size1-1.png[m
-	[31mdeleted:    JointModel/images/effect_size2-1.png[m
-	[31mdeleted:    JointModel/images/effect_size3-1.png[m
-	[31mdeleted:    JointModel/images/effect_size3_fake-1.png[m
-	[31mdeleted:    JointModel/images/effect_size3_true-1.png[m
-	[31mdeleted:    JointModel/images/effect_size3_true_again-1.png[m
-	[31mdeleted:    JointModel/images/effect_size4-1.png[m
-	[31mmodified:   JointModel/images/ng2385-F2.png[m
-	[31mdeleted:    JointModel/images/results_manhattan.mp4[m
-	[31mmodified:   JointModel/images/simulations_data-1.gif[m
-	[31mdeleted:    JointModel/images/simulations_data.gif[m
-	[31mmodified:   JointModel/joint_model.Rmd[m
-	[31mdeleted:    JointModel/joint_model.html[m
-	[31mmodified:   JointModel/joint_model_cache/html/__globals[m
-	[31mmodified:   JointModel/joint_model_cache/html/__objects[m
-	[31mmodified:   JointModel/joint_model_cache/html/__packages[m
-	[31mmodified:   JointModel/joint_model_cache/html/computation_time_aaea2b95ff96467cfb2020906b79a88a.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/computation_time_aaea2b95ff96467cfb2020906b79a88a.rdb[m
-	[31mmodified:   JointModel/joint_model_cache/html/computation_time_aaea2b95ff96467cfb2020906b79a88a.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/diagram_data_ee3773eb8a8f69827b195b13ece2a1e3.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/diagram_figs_17ae758127ad731987f5f46097728a79.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_41e6c61a8cf7a804b82c4ed5943da68e.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_41e6c61a8cf7a804b82c4ed5943da68e.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_41e6c61a8cf7a804b82c4ed5943da68e.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/parameters_table_90756bef13eab071aab3f0a489f11fbb.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/prokopenko_7bce2090002e55e0abbc2827b1753e70.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/scott1_b619f29d0c35a0cfb26153882be8b872.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/scott2_699cfd4d701ed3e2535e32229001a712.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.rdb[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.rdb[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/t2dhistory_8da2e2ac84cdd7a681b972aeea0a73c5.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/yaghootkar1_20d564477e19280f1031e2fe18e62ea8.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/yaghootkar2_3ff77b4df9b407f8456beea4478bb1a4.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdx[m
-	[31mmodified:   README.md[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ git add README.md 
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ git commit -m ''u'p'd'a't'e' 'r'e'a'd'm'e'
-[master 159a238] update readme
- 1 file changed, 8 insertions(+), 4 deletions(-)
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ gp
-Enumerating objects: 37, done.
-Counting objects:   2% (1/37)   Counting objects:   5% (2/37)   Counting objects:   8% (3/37)   Counting objects:  10% (4/37)   Counting objects:  13% (5/37)   Counting objects:  16% (6/37)   Counting objects:  18% (7/37)   Counting objects:  21% (8/37)   Counting objects:  24% (9/37)   Counting objects:  27% (10/37)   Counting objects:  29% (11/37)   Counting objects:  32% (12/37)   Counting objects:  35% (13/37)   Counting objects:  37% (14/37)   Counting objects:  40% (15/37)   Counting objects:  43% (16/37)   Counting objects:  45% (17/37)   Counting objects:  48% (18/37)   Counting objects:  51% (19/37)   Counting objects:  54% (20/37)   Counting objects:  56% (21/37)   Counting objects:  59% (22/37)   Counting objects:  62% (23/37)   Counting objects:  64% (24/37)   Counting objects:  67% (25/37)   Counting objects:  70% (26/37)   Counting objects:  72% (27/37)   Counting objects:  75% (28/37)   Counting objects:  78% (29/37)   Counting objects:  81% (30/37)   Counting objects:  83% (31/37)   Counting objects:  86% (32/37)   Counting objects:  89% (33/37)   Counting objects:  91% (34/37)   Counting objects:  94% (35/37)   Counting objects:  97% (36/37)   Counting objects: 100% (37/37)   Counting objects: 100% (37/37), done.
-Compressing objects:   4% (1/22)   Compressing objects:   9% (2/22)   Compressing objects:  13% (3/22)   Compressing objects:  18% (4/22)   Compressing objects:  22% (5/22)   Compressing objects:  27% (6/22)   Compressing objects:  31% (7/22)   Compressing objects:  36% (8/22)   Compressing objects:  40% (9/22)   Compressing objects:  45% (10/22)   Compressing objects:  50% (11/22)   Compressing objects:  54% (12/22)   Compressing objects:  59% (13/22)   Compressing objects:  63% (14/22)   Compressing objects:  68% (15/22)   Compressing objects:  72% (16/22)   Compressing objects:  77% (17/22)   Compressing objects:  81% (18/22)   Compressing objects:  86% (19/22)   Compressing objects:  90% (20/22)   Compressing objects:  95% (21/22)   Compressing objects: 100% (22/22)   Compressing objects: 100% (22/22), done.
-Writing objects:   4% (1/23)   Writing objects:   8% (2/23)   Writing objects:  13% (3/23)   Writing objects:  17% (4/23)   Writing objects:  21% (5/23)   Writing objects:  26% (6/23)   Writing objects:  30% (7/23)   Writing objects:  30% (7/23), 4.36 MiB | 4.42 MiB/s   Writing objects:  34% (8/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  39% (9/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  43% (10/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  47% (11/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  52% (12/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  60% (14/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  65% (15/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  69% (16/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  73% (17/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  78% (18/23), 6.49 MiB | 4.32 MiB/s   Writing objects:  78% (18/23), 21.61 MiB | 5.89 MiB/s   Writing objects:  78% (18/23), 21.63 MiB | 3.73 MiB/s   Writing objects:  82% (19/23), 21.63 MiB | 3.73 MiB/s   Writing objects:  86% (20/23), 21.63 MiB | 3.73 MiB/s   Writing objects:  91% (21/23), 21.63 MiB | 3.73 MiB/s   Writing objects:  95% (22/23), 21.63 MiB | 3.73 MiB/s   Writing objects: 100% (23/23), 21.63 MiB | 3.73 MiB/s   Writing objects: 100% (23/23), 22.26 MiB | 3.71 MiB/s, done.
-Total 23 (delta 11), reused 0 (delta 0)
-To gitlab.egid.local:mcanouil/PRESENTATION.git
-   83ba503..159a238  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ gpg
-Enumerating objects: 37, done.
-Counting objects:   2% (1/37)   Counting objects:   5% (2/37)   Counting objects:   8% (3/37)   Counting objects:  10% (4/37)   Counting objects:  13% (5/37)   Counting objects:  16% (6/37)   Counting objects:  18% (7/37)   Counting objects:  21% (8/37)   Counting objects:  24% (9/37)   Counting objects:  27% (10/37)   Counting objects:  29% (11/37)   Counting objects:  32% (12/37)   Counting objects:  35% (13/37)   Counting objects:  37% (14/37)   Counting objects:  40% (15/37)   Counting objects:  43% (16/37)   Counting objects:  45% (17/37)   Counting objects:  48% (18/37)   Counting objects:  51% (19/37)   Counting objects:  54% (20/37)   Counting objects:  56% (21/37)   Counting objects:  59% (22/37)   Counting objects:  62% (23/37)   Counting objects:  64% (24/37)   Counting objects:  67% (25/37)   Counting objects:  70% (26/37)   Counting objects:  72% (27/37)   Counting objects:  75% (28/37)   Counting objects:  78% (29/37)   Counting objects:  81% (30/37)   Counting objects:  83% (31/37)   Counting objects:  86% (32/37)   Counting objects:  89% (33/37)   Counting objects:  91% (34/37)   Counting objects:  94% (35/37)   Counting objects:  97% (36/37)   Counting objects: 100% (37/37)   Counting objects: 100% (37/37), done.
-Compressing objects:   4% (1/22)   Compressing objects:   9% (2/22)   Compressing objects:  13% (3/22)   Compressing objects:  18% (4/22)   Compressing objects:  22% (5/22)   Compressing objects:  27% (6/22)   Compressing objects:  31% (7/22)   Compressing objects:  36% (8/22)   Compressing objects:  40% (9/22)   Compressing objects:  45% (10/22)   Compressing objects:  50% (11/22)   Compressing objects:  54% (12/22)   Compressing objects:  59% (13/22)   Compressing objects:  63% (14/22)   Compressing objects:  68% (15/22)   Compressing objects:  72% (16/22)   Compressing objects:  77% (17/22)   Compressing objects:  81% (18/22)   Compressing objects:  86% (19/22)   Compressing objects:  90% (20/22)   Compressing objects:  95% (21/22)   Compressing objects: 100% (22/22)   Compressing objects: 100% (22/22), done.
-Writing objects:   4% (1/23)   Writing objects:   8% (2/23)   Writing objects:  13% (3/23)   Writing objects:  17% (4/23)   Writing objects:  21% (5/23)   Writing objects:  26% (6/23), 1.30 MiB | 2.11 MiB/s   Writing objects:  30% (7/23), 1.30 MiB | 2.11 MiB/s   Writing objects:  30% (7/23), 4.36 MiB | 2.29 MiB/s   Writing objects:  30% (7/23), 11.91 MiB | 3.99 MiB/s   Writing objects:  30% (7/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  34% (8/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  39% (9/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  43% (10/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  47% (11/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  52% (12/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  60% (14/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  65% (15/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  69% (16/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  73% (17/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  78% (18/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  82% (19/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  86% (20/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  91% (21/23), 19.41 MiB | 4.78 MiB/s   Writing objects:  95% (22/23), 19.41 MiB | 4.78 MiB/s   Writing objects: 100% (23/23), 19.41 MiB | 4.78 MiB/s   Writing objects: 100% (23/23), 22.26 MiB | 4.80 MiB/s, done.
-Total 23 (delta 11), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/11)   [Kremote: Resolving deltas:   9% (1/11)   [Kremote: Resolving deltas:  27% (3/11)   [Kremote: Resolving deltas:  36% (4/11)   [Kremote: Resolving deltas:  45% (5/11)   [Kremote: Resolving deltas:  54% (6/11)   [Kremote: Resolving deltas:  63% (7/11)   [Kremote: Resolving deltas:  72% (8/11)   [Kremote: Resolving deltas:  81% (9/11)   [Kremote: Resolving deltas:  90% (10/11)   [Kremote: Resolving deltas: 100% (11/11)   [Kremote: Resolving deltas: 100% (11/11), completed with 8 local objects.[K
-To github.com:mcanouil/PRESENTATION.git
-   83ba503..159a238  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ gpg[Kit commit -m 'update readme'[1@R[1@E[1@A[1@D[5@ME.md[1@ 
-[master aa839fe] update readme
- 1 file changed, 8 insertions(+), 8 deletions(-)
- rewrite README.md (79%)
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ gp
-Enumerating objects: 5, done.
-Counting objects:  20% (1/5)   Counting objects:  40% (2/5)   Counting objects:  60% (3/5)   Counting objects:  80% (4/5)   Counting objects: 100% (5/5)   Counting objects: 100% (5/5), done.
-Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 548 bytes | 548.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0)
-To gitlab.egid.local:mcanouil/PRESENTATION.git
-   159a238..aa839fe  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ gpg
-Enumerating objects: 5, done.
-Counting objects:  20% (1/5)   Counting objects:  40% (2/5)   Counting objects:  60% (3/5)   Counting objects:  80% (4/5)   Counting objects: 100% (5/5)   Counting objects: 100% (5/5), done.
-Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 548 bytes | 548.00 KiB/s, done.
-Total 3 (delta 1), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
-To github.com:mcanouil/PRESENTATION.git
-   159a238..aa839fe  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ gpg[Kit commit README.md -m 'update readme'
-[master 555ba1a] update readme
- 1 file changed, 3 insertions(+), 3 deletions(-)
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ gpg
-Enumerating objects: 5, done.
-Counting objects:  20% (1/5)   Counting objects:  40% (2/5)   Counting objects:  60% (3/5)   Counting objects:  80% (4/5)   Counting objects: 100% (5/5)   Counting objects: 100% (5/5), done.
-Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 348 bytes | 348.00 KiB/s, done.
-Total 3 (delta 2), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
-To github.com:mcanouil/PRESENTATION.git
-   aa839fe..555ba1a  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ gp
-Enumerating objects: 5, done.
-Counting objects:  20% (1/5)   Counting objects:  40% (2/5)   Counting objects:  60% (3/5)   Counting objects:  80% (4/5)   Counting objects: 100% (5/5)   Counting objects: 100% (5/5), done.
-Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
-Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 348 bytes | 348.00 KiB/s, done.
-Total 3 (delta 2), reused 0 (delta 0)
-To gitlab.egid.local:mcanouil/PRESENTATION.git
-   aa839fe..555ba1a  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ gss
-On branch master
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mdeleted:    JointModel/images/effect_size1-1.png[m
-	[31mdeleted:    JointModel/images/effect_size2-1.png[m
-	[31mdeleted:    JointModel/images/effect_size3-1.png[m
-	[31mdeleted:    JointModel/images/effect_size3_fake-1.png[m
-	[31mdeleted:    JointModel/images/effect_size3_true-1.png[m
-	[31mdeleted:    JointModel/images/effect_size3_true_again-1.png[m
-	[31mdeleted:    JointModel/images/effect_size4-1.png[m
-	[31mmodified:   JointModel/images/ng2385-F2.png[m
-	[31mdeleted:    JointModel/images/results_manhattan.mp4[m
-	[31mmodified:   JointModel/images/simulations_data-1.gif[m
-	[31mdeleted:    JointModel/images/simulations_data.gif[m
-	[31mmodified:   JointModel/joint_model.Rmd[m
-	[31mdeleted:    JointModel/joint_model.html[m
-	[31mmodified:   JointModel/joint_model_cache/html/__globals[m
-	[31mmodified:   JointModel/joint_model_cache/html/__objects[m
-	[31mmodified:   JointModel/joint_model_cache/html/__packages[m
-	[31mmodified:   JointModel/joint_model_cache/html/computation_time_aaea2b95ff96467cfb2020906b79a88a.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/computation_time_aaea2b95ff96467cfb2020906b79a88a.rdb[m
-	[31mmodified:   JointModel/joint_model_cache/html/computation_time_aaea2b95ff96467cfb2020906b79a88a.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/diagram_data_ee3773eb8a8f69827b195b13ece2a1e3.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/diagram_figs_17ae758127ad731987f5f46097728a79.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_41e6c61a8cf7a804b82c4ed5943da68e.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_41e6c61a8cf7a804b82c4ed5943da68e.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_41e6c61a8cf7a804b82c4ed5943da68e.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.rdx[m
-	[31mdeleted:    JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/parameters_table_90756bef13eab071aab3f0a489f11fbb.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/prokopenko_7bce2090002e55e0abbc2827b1753e70.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/scott1_b619f29d0c35a0cfb26153882be8b872.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/scott2_699cfd4d701ed3e2535e32229001a712.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.rdb[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.rdb[m
-	[31mmodified:   JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/t2dhistory_8da2e2ac84cdd7a681b972aeea0a73c5.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdx[m
-	[31mmodified:   JointModel/joint_model_cache/html/yaghootkar1_20d564477e19280f1031e2fe18e62ea8.RData[m
-	[31mmodified:   JointModel/joint_model_cache/html/yaghootkar2_3ff77b4df9b407f8456beea4478bb1a4.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.RData[m
-	[31mdeleted:    JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdb[m
-	[31mdeleted:    JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdx[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATIONmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ [Kmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION$ cd JointModel/
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git diff JointModel.Rproj [K[K[K[K[Kmd
-fatal: ambiguous argument 'JointModel.Rmd': unknown revision or path not in the working tree.
-Use '--' to separate paths from revisions, like this:
-'git <command> [<revision>...] -- [<file>...]'
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git diff JointModel.Rmd[1P.Rmd[1P.Rmd[1P.Rmd[1P.Rmd[1P.Rmd[1P.Rmd[1P.Rmd[1P.Rmd[1P.Rmd[1P.Rmdj.Rmdo.Rmdi.Rmdnt_model.Rmd[C[C[C[C
-[1mdiff --git a/JointModel/joint_model.Rmd b/JointModel/joint_model.Rmd[m
-[1mindex 40a8739..f43a50b 100755[m
-[1m--- a/JointModel/joint_model.Rmd[m
-[1m+++ b/JointModel/joint_model.Rmd[m
-[36m@@ -17,7 +17,6 @@[m [moutput:[m
-     self_contained: true[m
-     mathjax: default[m
-     incremental: true[m
-[31m-    transition: 0.1[m
- ---[m
- [m
- [m
-[36m@@ -1580,11 +1579,14 @@[m [mtab[, -1] %>%[m
- [m
- # To summarise {.flexbox .vcenter}[m
- [m
-[32m+[m[32m<br>[m
-[32m+[m[32m<div class="auto-fadein">[m
- * The Joint Model is better than the "Two-Step" approach[m
- [m
- * The "Two-Step" approach is not that bad, especially regarding computation time[m
- [m
-[31m-* $\Rightarrow$ Use "Two-Step" as a screening approach and refine with The Joint Model[m
-[32m+[m[32m* $\Rightarrow$ Use "Two-Step" as a screening approach and refine with a Joint Model[m
-[32m+[m[32m</div>[m
- [m
- [m
- # <img src="http://mickael.canouil.fr/img/IDPhotoBWlight.png" height = "150px"></img>__*Me?*__ {.fl
-exbox .vcenter}[m
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git diff joint_model.Rmd[C[C[C[C[C[C[C[C[1P joint_model.Rmd[1P joint_model.Rmd[1P joint_model.Rmd[1P joint_model.Rmdc joint_model.Rmdo joint_model.Rmdm joint_model.Rmdm joint_model.Rmdi joint_model.Rmdt joint_model.Rmd[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -m 'tw eak summry slide'
-[master 02d4003] tweak summry slide
- 1 file changed, 4 insertions(+), 2 deletions(-)
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gp
-Enumerating objects: 7, done.
-Counting objects:  14% (1/7)   Counting objects:  28% (2/7)   Counting objects:  42% (3/7)   Counting objects:  57% (4/7)   Counting objects:  71% (5/7)   Counting objects:  85% (6/7)   Counting objects: 100% (7/7)   Counting objects: 100% (7/7), done.
-Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
-Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 413 bytes | 413.00 KiB/s, done.
-Total 4 (delta 3), reused 0 (delta 0)
-To gitlab.egid.local:mcanouil/PRESENTATION.git
-   555ba1a..02d4003  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gpg
-Enumerating objects: 7, done.
-Counting objects:  14% (1/7)   Counting objects:  28% (2/7)   Counting objects:  42% (3/7)   Counting objects:  57% (4/7)   Counting objects:  71% (5/7)   Counting objects:  85% (6/7)   Counting objects: 100% (7/7)   Counting objects: 100% (7/7), done.
-Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
-Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 413 bytes | 413.00 KiB/s, done.
-Total 4 (delta 3), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
-To github.com:mcanouil/PRESENTATION.git
-   555ba1a..02d4003  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git commi t[K[Kt joint_model_cache/* -m  ''u'p'd'a't'e' 'c'a'c'h'e' 'f'i'e's'les'
-[master 9dc36f2] update cache files
- 54 files changed, 12 insertions(+), 36 deletions(-)
- rewrite JointModel/joint_model_cache/html/__globals (66%)
- rewrite JointModel/joint_model_cache/html/computation_time_aaea2b95ff96467cfb2020906b79a88a.RData (100%)
- rewrite JointModel/joint_model_cache/html/computation_time_aaea2b95ff96467cfb2020906b79a88a.rdx (100%)
- rewrite JointModel/joint_model_cache/html/diagram_data_ee3773eb8a8f69827b195b13ece2a1e3.RData (99%)
- rewrite JointModel/joint_model_cache/html/diagram_figs_17ae758127ad731987f5f46097728a79.RData (100%)
- delete mode 100644 JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.RData
- delete mode 100644 JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdb
- delete mode 100644 JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdx
- delete mode 100644 JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.RData
- delete mode 100644 JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdb
- delete mode 100644 JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdx
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_41e6c61a8cf7a804b82c4ed5943da68e.RData
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_41e6c61a8cf7a804b82c4ed5943da68e.rdb
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_41e6c61a8cf7a804b82c4ed5943da68e.rdx
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.RData
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdb
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdx
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.RData
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdb
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdx
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.RData
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdb
- delete mode 100644 JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdx
- delete mode 100644 JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.RData
- delete mode 100644 JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.rdb
- delete mode 100644 JointModel/joint_model_cache/html/effect_size4_e9af0cf6dbba1848f4ae85286cdb7594.rdx
- delete mode 100644 JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.RData
- delete mode 100644 JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdb
- delete mode 100644 JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdx
- rewrite JointModel/joint_model_cache/html/parameters_table_90756bef13eab071aab3f0a489f11fbb.RData (100%)
- rewrite JointModel/joint_model_cache/html/prokopenko_7bce2090002e55e0abbc2827b1753e70.RData (99%)
- rewrite JointModel/joint_model_cache/html/scott1_b619f29d0c35a0cfb26153882be8b872.RData (99%)
- rewrite JointModel/joint_model_cache/html/scott2_699cfd4d701ed3e2535e32229001a712.RData (99%)
- delete mode 100644 JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.RData
- delete mode 100644 JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdb
- delete mode 100644 JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdx
- rewrite JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.RData (99%)
- rewrite JointModel/joint_model_cache/html/simulations_data_8fd234107f220114cd482675a052c74a.rdx (100%)
- rewrite JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.RData (100%)
- rewrite JointModel/joint_model_cache/html/simulations_results_23656fbce3eb49c060a41afc61162ef3.rdx (100%)
- rewrite JointModel/joint_model_cache/html/t2dhistory_8da2e2ac84cdd7a681b972aeea0a73c5.RData (99%)
- delete mode 100644 JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.RData
- delete mode 100644 JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdb
- delete mode 100644 JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdx
- rewrite JointModel/joint_model_cache/html/yaghootkar1_20d564477e19280f1031e2fe18e62ea8.RData (99%)
- rewrite JointModel/joint_model_cache/html/yaghootkar2_3ff77b4df9b407f8456beea4478bb1a4.RData (99%)
- delete mode 100644 JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.RData
- delete mode 100644 JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdb
- delete mode 100644 JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdx
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mdeleted:    images/effect_size1-1.png[m
-	[31mdeleted:    images/effect_size2-1.png[m
-	[31mdeleted:    images/effect_size3-1.png[m
-	[31mdeleted:    images/effect_size3_fake-1.png[m
-	[31mdeleted:    images/effect_size3_true-1.png[m
-	[31mdeleted:    images/effect_size3_true_again-1.png[m
-	[31mdeleted:    images/effect_size4-1.png[m
-	[31mmodified:   images/ng2385-F2.png[m
-	[31mdeleted:    images/results_manhattan.mp4[m
-	[31mmodified:   images/simulations_data-1.gif[m
-	[31mdeleted:    images/simulations_data.gif[m
-	[31mdeleted:    joint_model.html[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git commit joint_model.Rmd [K[K[K[Khtml -m '' [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr''e'm'o'v'e' 'a'l'[1P'[1P'o'l'd' 'h't'm'l'
-[master c764a24] remove old html
- 1 file changed, 1111 deletions(-)
- delete mode 100644 JointModel/joint_model.html
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mdeleted:    images/effect_size1-1.png[m
-	[31mdeleted:    images/effect_size2-1.png[m
-	[31mdeleted:    images/effect_size3-1.png[m
-	[31mdeleted:    images/effect_size3_fake-1.png[m
-	[31mdeleted:    images/effect_size3_true-1.png[m
-	[31mdeleted:    images/effect_size3_true_again-1.png[m
-	[31mdeleted:    images/effect_size4-1.png[m
-	[31mmodified:   images/ng2385-F2.png[m
-	[31mdeleted:    images/results_manhattan.mp4[m
-	[31mmodified:   images/simulations_data-1.gif[m
-	[31mdeleted:    images/simulations_data.gif[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git commit -[K-a[K[K* -m ''u'p'd'a't'e' 'i'm'a'g'e's'[1P[1@i[1@ma -m 'update images' [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg -m 'update images''[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce -m 'update images'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs -m 'update images'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/ -m 'update images'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C* -m 'update images'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-[master 9779a03] update images
- 2 files changed, 0 insertions(+), 0 deletions(-)
- mode change 100755 => 100644 JointModel/images/ng2385-F2.png
- rewrite JointModel/images/simulations_data-1.gif (61%)
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mdeleted:    images/effect_size1-1.png[m
-	[31mdeleted:    images/effect_size2-1.png[m
-	[31mdeleted:    images/effect_size3-1.png[m
-	[31mdeleted:    images/effect_size3_fake-1.png[m
-	[31mdeleted:    images/effect_size3_true-1.png[m
-	[31mdeleted:    images/effect_size3_true_again-1.png[m
-	[31mdeleted:    images/effect_size4-1.png[m
-	[31mdeleted:    images/results_manhattan.mp4[m
-	[31mdeleted:    images/simulations_data.gif[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gaa
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	[32mdeleted:    images/effect_size1-1.png[m
-	[32mdeleted:    images/effect_size2-1.png[m
-	[32mdeleted:    images/effect_size3-1.png[m
-	[32mdeleted:    images/effect_size3_fake-1.png[m
-	[32mdeleted:    images/effect_size3_true-1.png[m
-	[32mdeleted:    images/effect_size3_true_again-1.png[m
-	[32mdeleted:    images/effect_size4-1.png[m
-	[32mdeleted:    images/results_manhattan.mp4[m
-	[32mdeleted:    images/simulations_data.gif[m
-
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gssaassit commit images/* -m 'update imaages'
-On branch master
-Changes not staged for commit:
-	[31mdeleted:    images/effect_size1-1.png[m
-	[31mdeleted:    images/effect_size2-1.png[m
-	[31mdeleted:    images/effect_size3-1.png[m
-	[31mdeleted:    images/effect_size3_fake-1.png[m
-	[31mdeleted:    images/effect_size3_true-1.png[m
-	[31mdeleted:    images/effect_size3_true_again-1.png[m
-	[31mdeleted:    images/effect_size4-1.png[m
-	[31mdeleted:    images/results_manhattan.mp4[m
-	[31mdeleted:    images/simulations_data.gif[m
-
-no changes added to commit
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git commit images/* -m 'update imaages'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-m 'update imag[1Pes'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-m 'update image[1Ps'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-m 'update images[1P'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-m 'update images'[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-m 'update images' [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P
-[master bc9f72c] update images
- 9 files changed, 0 insertions(+), 0 deletions(-)
- delete mode 100644 JointModel/images/effect_size1-1.png
- delete mode 100644 JointModel/images/effect_size2-1.png
- delete mode 100644 JointModel/images/effect_size3-1.png
- delete mode 100644 JointModel/images/effect_size3_fake-1.png
- delete mode 100644 JointModel/images/effect_size3_true-1.png
- delete mode 100644 JointModel/images/effect_size3_true_again-1.png
- delete mode 100644 JointModel/images/effect_size4-1.png
- delete mode 100644 JointModel/images/results_manhattan.mp4
- delete mode 100644 JointModel/images/simulations_data.gif
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-nothing to commit, working tree clean
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ [Kmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gpg
-Enumerating objects: 65, done.
-Counting objects:   1% (1/65)   Counting objects:   3% (2/65)   Counting objects:   4% (3/65)   Counting objects:   6% (4/65)   Counting objects:   7% (5/65)   Counting objects:   9% (6/65)   Counting objects:  10% (7/65)   Counting objects:  12% (8/65)   Counting objects:  13% (9/65)   Counting objects:  15% (10/65)   Counting objects:  16% (11/65)   Counting objects:  18% (12/65)   Counting objects:  20% (13/65)   Counting objects:  21% (14/65)   Counting objects:  23% (15/65)   Counting objects:  24% (16/65)   Counting objects:  26% (17/65)   Counting objects:  27% (18/65)   Counting objects:  29% (19/65)   Counting objects:  30% (20/65)   Counting objects:  32% (21/65)   Counting objects:  33% (22/65)   Counting objects:  35% (23/65)   Counting objects:  36% (24/65)   Counting objects:  38% (25/65)   Counting objects:  40% (26/65)   Counting objects:  41% (27/65)   Counting objects:  43% (28/65)   Counting objects:  44% (29/65)   Counting objects:  46% (30/65)   Counting objects:  47% (31/65)   Counting objects:  49% (32/65)   Counting objects:  50% (33/65)   Counting objects:  52% (34/65)   Counting objects:  53% (35/65)   Counting objects:  55% (36/65)   Counting objects:  56% (37/65)   Counting objects:  58% (38/65)   Counting objects:  60% (39/65)   Counting objects:  61% (40/65)   Counting objects:  63% (41/65)   Counting objects:  64% (42/65)   Counting objects:  66% (43/65)   Counting objects:  67% (44/65)   Counting objects:  69% (45/65)   Counting objects:  70% (46/65)   Counting objects:  72% (47/65)   Counting objects:  73% (48/65)   Counting objects:  75% (49/65)   Counting objects:  76% (50/65)   Counting objects:  78% (51/65)   Counting objects:  80% (52/65)   Counting objects:  81% (53/65)   Counting objects:  83% (54/65)   Counting objects:  84% (55/65)   Counting objects:  86% (56/65)   Counting objects:  87% (57/65)   Counting objects:  89% (58/65)   Counting objects:  90% (59/65)   Counting objects:  92% (60/65)   Counting objects:  93% (61/65)   Counting objects:  95% (62/65)   Counting objects:  96% (63/65)   Counting objects:  98% (64/65)   Counting objects: 100% (65/65)   Counting objects: 100% (65/65), done.
-Compressing objects:   2% (1/37)   Compressing objects:   5% (2/37)   Compressing objects:   8% (3/37)   Compressing objects:  10% (4/37)   Compressing objects:  13% (5/37)   Compressing objects:  16% (6/37)   Compressing objects:  18% (7/37)   Compressing objects:  21% (8/37)   Compressing objects:  24% (9/37)   Compressing objects:  27% (10/37)   Compressing objects:  29% (11/37)   Compressing objects:  32% (12/37)   Compressing objects:  35% (13/37)   Compressing objects:  37% (14/37)   Compressing objects:  40% (15/37)   Compressing objects:  43% (16/37)   Compressing objects:  45% (17/37)   Compressing objects:  48% (18/37)   Compressing objects:  51% (19/37)   Compressing objects:  54% (20/37)   Compressing objects:  56% (21/37)   Compressing objects:  59% (22/37)   Compressing objects:  62% (23/37)   Compressing objects:  64% (24/37)   Compressing objects:  67% (25/37)   Compressing objects:  70% (26/37)   Compressing objects:  72% (27/37)   Compressing objects:  75% (28/37)   Compressing objects:  78% (29/37)   Compressing objects:  81% (30/37)   Compressing objects:  83% (31/37)   Compressing objects:  86% (32/37)   Compressing objects:  89% (33/37)   Compressing objects:  91% (34/37)   Compressing objects:  94% (35/37)   Compressing objects:  97% (36/37)   Compressing objects: 100% (37/37)   Compressing objects: 100% (37/37), done.
-Writing objects:   2% (1/38)   Writing objects:   5% (2/38)   Writing objects:   7% (3/38)   Writing objects:  10% (4/38)   Writing objects:  13% (5/38)   Writing objects:  18% (7/38)   Writing objects:  23% (9/38)   Writing objects:  26% (10/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  28% (11/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  31% (12/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  34% (13/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  36% (14/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  39% (15/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  42% (16/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  44% (17/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  47% (18/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  55% (21/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  57% (22/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  60% (23/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  63% (24/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  65% (25/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  68% (26/38), 1.30 MiB | 2.14 MiB/s   Writing objects:  71% (27/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  73% (28/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  76% (29/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  78% (30/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  81% (31/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  84% (32/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  86% (33/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  89% (34/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  92% (35/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  94% (36/38), 4.41 MiB | 3.97 MiB/s   Writing objects:  97% (37/38), 4.41 MiB | 3.97 MiB/s   Writing objects: 100% (38/38), 4.41 MiB | 3.97 MiB/s   Writing objects: 100% (38/38), 4.99 MiB | 3.76 MiB/s, done.
-Total 38 (delta 24), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/24)   [Kremote: Resolving deltas:  29% (7/24)   [Kremote: Resolving deltas:  45% (11/24)   [Kremote: Resolving deltas:  62% (15/24)   [Kremote: Resolving deltas:  70% (17/24)   [Kremote: Resolving deltas:  75% (18/24)   [Kremote: Resolving deltas:  79% (19/24)   [Kremote: Resolving deltas:  83% (20/24)   [Kremote: Resolving deltas:  87% (21/24)   [Kremote: Resolving deltas:  91% (22/24)   [Kremote: Resolving deltas:  95% (23/24)   [Kremote: Resolving deltas: 100% (24/24)   [Kremote: Resolving deltas: 100% (24/24), completed with 10 local objects.[K
-To github.com:mcanouil/PRESENTATION.git
-   02d4003..bc9f72c  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-nothing to commit, working tree clean
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   joint_model_cache/html/__globals[m
-	[31mmodified:   joint_model_cache/html/__objects[m
-	[31mmodified:   joint_model_cache/html/__packages[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31mimages/effect_size1-1.png[m
-	[31mimages/effect_size2-1.png[m
-	[31mimages/effect_size3_fake-1.png[m
-	[31mimages/effect_size3_true-1.png[m
-	[31mimages/effect_size3_true_again-1.png[m
-	[31mimages/results_manhattan.mp4[m
-	[31mjoint_model.html[m
-	[31mjoint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.RData[m
-	[31mjoint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdb[m
-	[31mjoint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdx[m
-	[31mjoint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.RData[m
-	[31mjoint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdb[m
-	[31mjoint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdx[m
-	[31mjoint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.RData[m
-	[31mjoint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdb[m
-	[31mjoint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdx[m
-	[31mjoint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.RData[m
-	[31mjoint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdb[m
-	[31mjoint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdx[m
-	[31mjoint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.RData[m
-	[31mjoint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdb[m
-	[31mjoint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdx[m
-	[31mjoint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.RData[m
-	[31mjoint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdb[m
-	[31mjoint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdx[m
-	[31mjoint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.RData[m
-	[31mjoint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdb[m
-	[31mjoint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdx[m
-	[31mjoint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.RData[m
-	[31mjoint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdb[m
-	[31mjoint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdx[m
-	[31mjoint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.RData[m
-	[31mjoint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdb[m
-	[31mjoint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdx[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   joint_model_cache/html/__globals[m
-	[31mmodified:   joint_model_cache/html/__objects[m
-	[31mmodified:   joint_model_cache/html/__packages[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31mimages/effect_size1-1.png[m
-	[31mimages/effect_size2-1.png[m
-	[31mimages/effect_size3_fake-1.png[m
-	[31mimages/effect_size3_true-1.png[m
-	[31mimages/effect_size3_true_again-1.png[m
-	[31mimages/results_manhattan.mp4[m
-	[31mjoint_model.html[m
-	[31mjoint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.RData[m
-	[31mjoint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdb[m
-	[31mjoint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdx[m
-	[31mjoint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.RData[m
-	[31mjoint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdb[m
-	[31mjoint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdx[m
-	[31mjoint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.RData[m
-	[31mjoint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdb[m
-	[31mjoint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdx[m
-	[31mjoint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.RData[m
-	[31mjoint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdb[m
-	[31mjoint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdx[m
-	[31mjoint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.RData[m
-	[31mjoint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdb[m
-	[31mjoint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdx[m
-	[31mjoint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.RData[m
-	[31mjoint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdb[m
-	[31mjoint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdx[m
-	[31mjoint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.RData[m
-	[31mjoint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdb[m
-	[31mjoint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdx[m
-	[31mjoint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.RData[m
-	[31mjoint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdb[m
-	[31mjoint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdx[m
-	[31mjoint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.RData[m
-	[31mjoint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdb[m
-	[31mjoint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdx[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git commit joint_model_cache/*
-hint: Waiting for your editor to close the file... fatal: cannot run vi: No such file or directory
-error: unable to start editor 'vi'
-Please supply the message using either -m or -F option.
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git commit joint_model_cache/* -m  ''u'p'd'a't'e' 'c'a'c'h'e' 'f'i'l'e's'
-[master 3c8562e] update cache files
- 3 files changed, 20 insertions(+)
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31mimages/effect_size1-1.png[m
-	[31mimages/effect_size2-1.png[m
-	[31mimages/effect_size3_fake-1.png[m
-	[31mimages/effect_size3_true-1.png[m
-	[31mimages/effect_size3_true_again-1.png[m
-	[31mimages/results_manhattan.mp4[m
-	[31mjoint_model.html[m
-	[31mjoint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.RData[m
-	[31mjoint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdb[m
-	[31mjoint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdx[m
-	[31mjoint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.RData[m
-	[31mjoint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdb[m
-	[31mjoint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdx[m
-	[31mjoint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.RData[m
-	[31mjoint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdb[m
-	[31mjoint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdx[m
-	[31mjoint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.RData[m
-	[31mjoint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdb[m
-	[31mjoint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdx[m
-	[31mjoint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.RData[m
-	[31mjoint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdb[m
-	[31mjoint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdx[m
-	[31mjoint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.RData[m
-	[31mjoint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdb[m
-	[31mjoint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdx[m
-	[31mjoint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.RData[m
-	[31mjoint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdb[m
-	[31mjoint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdx[m
-	[31mjoint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.RData[m
-	[31mjoint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdb[m
-	[31mjoint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdx[m
-	[31mjoint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.RData[m
-	[31mjoint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdb[m
-	[31mjoint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdx[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git add joint_model_cache/*
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git add joint_model_cache/*ss[Kit commit joint_model_cache/* -m  'update cache files'
-[master 3d443fe] update cache files
- 27 files changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.RData
- create mode 100644 JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdb
- create mode 100644 JointModel/joint_model_cache/html/effect_size1_813567fe5ec9481519bc171af4c60f4b.rdx
- create mode 100644 JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.RData
- create mode 100644 JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdb
- create mode 100644 JointModel/joint_model_cache/html/effect_size2_6ff7ca6dc087cc78273b73403942fdfc.rdx
- create mode 100644 JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.RData
- create mode 100644 JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdb
- create mode 100644 JointModel/joint_model_cache/html/effect_size3_fake_577697c4c6c6203ad7dcb15f792f120a.rdx
- create mode 100644 JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.RData
- create mode 100644 JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdb
- create mode 100644 JointModel/joint_model_cache/html/effect_size3_true_again_4f1c3de055c70583cf0e741715e0192d.rdx
- create mode 100644 JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.RData
- create mode 100644 JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdb
- create mode 100644 JointModel/joint_model_cache/html/effect_size3_true_d4190047e36546625242d62a7c9dcea5.rdx
- create mode 100644 JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.RData
- create mode 100644 JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdb
- create mode 100644 JointModel/joint_model_cache/html/manhattan_effdbf29d95def1213d1c0c47d5ea2a0.rdx
- create mode 100644 JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.RData
- create mode 100644 JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdb
- create mode 100644 JointModel/joint_model_cache/html/scott3_b2a48d1e5163713172269fe701c6adf7.rdx
- create mode 100644 JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.RData
- create mode 100644 JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdb
- create mode 100644 JointModel/joint_model_cache/html/unnamed-chunk-1_f9b718180729938641636683def177d9.rdx
- create mode 100644 JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.RData
- create mode 100644 JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdb
- create mode 100644 JointModel/joint_model_cache/html/yaghootkar3_08d5a99cb211df70bb68ababba03d59c.rdx
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31mimages/effect_size1-1.png[m
-	[31mimages/effect_size2-1.png[m
-	[31mimages/effect_size3_fake-1.png[m
-	[31mimages/effect_size3_true-1.png[m
-	[31mimages/effect_size3_true_again-1.png[m
-	[31mimages/results_manhattan.mp4[m
-	[31mjoint_model.html[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git add images/*
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ git commit images/* -m 'update im ages'
-[master 2c0bc9d] update images
- 6 files changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 JointModel/images/effect_size1-1.png
- create mode 100644 JointModel/images/effect_size2-1.png
- create mode 100644 JointModel/images/effect_size3_fake-1.png
- create mode 100644 JointModel/images/effect_size3_true-1.png
- create mode 100644 JointModel/images/effect_size3_true_again-1.png
- create mode 100644 JointModel/images/results_manhattan.mp4
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31mjoint_model.html[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gaa
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gam ''l'a's't' 'h't'm'l' 's'l'i'd'e's'
-[master 1253b2e] last html slides
- 1 file changed, 1114 insertions(+)
- create mode 100644 JointModel/joint_model.html
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gpg
-Enumerating objects: 49, done.
-Counting objects:   2% (1/49)   Counting objects:   4% (2/49)   Counting objects:   6% (3/49)   Counting objects:   8% (4/49)   Counting objects:  10% (5/49)   Counting objects:  12% (6/49)   Counting objects:  14% (7/49)   Counting objects:  16% (8/49)   Counting objects:  18% (9/49)   Counting objects:  20% (10/49)   Counting objects:  22% (11/49)   Counting objects:  24% (12/49)   Counting objects:  26% (13/49)   Counting objects:  28% (14/49)   Counting objects:  30% (15/49)   Counting objects:  32% (16/49)   Counting objects:  34% (17/49)   Counting objects:  36% (18/49)   Counting objects:  38% (19/49)   Counting objects:  40% (20/49)   Counting objects:  42% (21/49)   Counting objects:  44% (22/49)   Counting objects:  46% (23/49)   Counting objects:  48% (24/49)   Counting objects:  51% (25/49)   Counting objects:  53% (26/49)   Counting objects:  55% (27/49)   Counting objects:  57% (28/49)   Counting objects:  59% (29/49)   Counting objects:  61% (30/49)   Counting objects:  63% (31/49)   Counting objects:  65% (32/49)   Counting objects:  67% (33/49)   Counting objects:  69% (34/49)   Counting objects:  71% (35/49)   Counting objects:  73% (36/49)   Counting objects:  75% (37/49)   Counting objects:  77% (38/49)   Counting objects:  79% (39/49)   Counting objects:  81% (40/49)   Counting objects:  83% (41/49)   Counting objects:  85% (42/49)   Counting objects:  87% (43/49)   Counting objects:  89% (44/49)   Counting objects:  91% (45/49)   Counting objects:  93% (46/49)   Counting objects:  95% (47/49)   Counting objects:  97% (48/49)   Counting objects: 100% (49/49)   Counting objects: 100% (49/49), done.
-Compressing objects:   2% (1/39)   Compressing objects:   5% (2/39)   Compressing objects:   7% (3/39)   Compressing objects:  10% (4/39)   Compressing objects:  12% (5/39)   Compressing objects:  15% (6/39)   Compressing objects:  17% (7/39)   Compressing objects:  20% (8/39)   Compressing objects:  23% (9/39)   Compressing objects:  25% (10/39)   Compressing objects:  28% (11/39)   Compressing objects:  30% (12/39)   Compressing objects:  33% (13/39)   Compressing objects:  35% (14/39)   Compressing objects:  38% (15/39)   Compressing objects:  41% (16/39)   Compressing objects:  43% (17/39)   Compressing objects:  46% (18/39)   Compressing objects:  48% (19/39)   Compressing objects:  51% (20/39)   Compressing objects:  53% (21/39)   Compressing objects:  56% (22/39)   Compressing objects:  58% (23/39)   Compressing objects:  61% (24/39)   Compressing objects:  64% (25/39)   Compressing objects:  66% (26/39)   Compressing objects:  69% (27/39)   Compressing objects:  71% (28/39)   Compressing objects:  74% (29/39)   Compressing objects:  76% (30/39)   Compressing objects:  79% (31/39)   Compressing objects:  82% (32/39)   Compressing objects:  84% (33/39)   Compressing objects:  87% (34/39)   Compressing objects:  89% (35/39)   Compressing objects:  92% (36/39)   Compressing objects:  94% (37/39)   Compressing objects:  97% (38/39)   Compressing objects: 100% (39/39)   Compressing objects: 100% (39/39), done.
-Writing objects:   2% (1/41)   Writing objects:   4% (2/41)   Writing objects:   7% (3/41)   Writing objects:   9% (4/41)   Writing objects:  12% (5/41)   Writing objects:  14% (6/41)   Writing objects:  17% (7/41)   Writing objects:  19% (8/41)   Writing objects:  21% (9/41)   Writing objects:  24% (10/41)   Writing objects:  26% (11/41)   Writing objects:  26% (11/41), 4.42 MiB | 4.01 MiB/s   Writing objects:  29% (12/41), 4.42 MiB | 4.01 MiB/s   Writing objects:  29% (12/41), 4.89 MiB | 2.33 MiB/s   Writing objects:  29% (12/41), 10.67 MiB | 3.43 MiB/s   Writing objects:  29% (12/41), 16.92 MiB | 4.11 MiB/s   Writing objects:  31% (13/41), 16.92 MiB | 4.11 MiB/s   Writing objects:  34% (14/41), 16.92 MiB | 4.11 MiB/s   Writing objects:  36% (15/41), 16.92 MiB | 4.11 MiB/s   Writing objects:  39% (16/41), 16.92 MiB | 4.11 MiB/s   Writing objects:  41% (17/41), 16.92 MiB | 4.11 MiB/s   Writing objects:  43% (18/41), 16.92 MiB | 4.11 MiB/s   Writing objects:  48% (20/41), 16.92 MiB | 4.11 MiB/s   Writing objects:  51% (21/41), 20.04 MiB | 4.33 MiB/s   Writing objects:  53% (22/41), 20.04 MiB | 4.33 MiB/s   Writing objects:  58% (24/41), 20.04 MiB | 4.33 MiB/s   Writing objects:  60% (25/41), 20.04 MiB | 4.33 MiB/s   Writing objects:  60% (25/41), 23.16 MiB | 4.43 MiB/s   Writing objects:  63% (26/41), 23.16 MiB | 4.43 MiB/s   Writing objects:  63% (26/41), 25.68 MiB | 4.10 MiB/s   Writing objects:  63% (26/41), 28.79 MiB | 4.07 MiB/s   Writing objects:  63% (26/41), 35.04 MiB | 4.99 MiB/s   Writing objects:  63% (26/41), 40.66 MiB | 4.88 MiB/s   Writing objects:  63% (26/41), 46.91 MiB | 4.83 MiB/s   Writing objects:  63% (26/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  65% (27/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  68% (28/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  73% (30/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  75% (31/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  78% (32/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  80% (33/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  82% (34/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  85% (35/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  87% (36/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  90% (37/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  92% (38/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  95% (39/41), 53.16 MiB | 5.90 MiB/s   Writing objects:  97% (40/41), 53.16 MiB | 5.90 MiB/s   Writing objects: 100% (41/41), 53.16 MiB | 5.90 MiB/s   Writing objects: 100% (41/41), 54.28 MiB | 4.78 MiB/s, done.
-Total 41 (delta 19), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/19)   [Kremote: Resolving deltas:  31% (6/19)   [Kremote: Resolving deltas:  52% (10/19)   [Kremote: Resolving deltas:  73% (14/19)   [Kremote: Resolving deltas:  78% (15/19)   [Kremote: Resolving deltas:  89% (17/19)   [Kremote: Resolving deltas:  94% (18/19)   [Kremote: Resolving deltas: 100% (19/19)   [Kremote: Resolving deltas: 100% (19/19), completed with 6 local objects.[K
-To github.com:mcanouil/PRESENTATION.git
-   bc9f72c..1253b2e  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gp
-Enumerating objects: 114, done.
-Counting objects:   0% (1/114)   Counting objects:   1% (2/114)   Counting objects:   2% (3/114)   Counting objects:   3% (4/114)   Counting objects:   4% (5/114)   Counting objects:   5% (6/114)   Counting objects:   6% (7/114)   Counting objects:   7% (8/114)   Counting objects:   8% (10/114)   Counting objects:   9% (11/114)   Counting objects:  10% (12/114)   Counting objects:  11% (13/114)   Counting objects:  12% (14/114)   Counting objects:  13% (15/114)   Counting objects:  14% (16/114)   Counting objects:  15% (18/114)   Counting objects:  16% (19/114)   Counting objects:  17% (20/114)   Counting objects:  18% (21/114)   Counting objects:  19% (22/114)   Counting objects:  20% (23/114)   Counting objects:  21% (24/114)   Counting objects:  22% (26/114)   Counting objects:  23% (27/114)   Counting objects:  24% (28/114)   Counting objects:  25% (29/114)   Counting objects:  26% (30/114)   Counting objects:  27% (31/114)   Counting objects:  28% (32/114)   Counting objects:  29% (34/114)   Counting objects:  30% (35/114)   Counting objects:  31% (36/114)   Counting objects:  32% (37/114)   Counting objects:  33% (38/114)   Counting objects:  34% (39/114)   Counting objects:  35% (40/114)   Counting objects:  36% (42/114)   Counting objects:  37% (43/114)   Counting objects:  38% (44/114)   Counting objects:  39% (45/114)   Counting objects:  40% (46/114)   Counting objects:  41% (47/114)   Counting objects:  42% (48/114)   Counting objects:  43% (50/114)   Counting objects:  44% (51/114)   Counting objects:  45% (52/114)   Counting objects:  46% (53/114)   Counting objects:  47% (54/114)   Counting objects:  48% (55/114)   Counting objects:  49% (56/114)   Counting objects:  50% (57/114)   Counting objects:  51% (59/114)   Counting objects:  52% (60/114)   Counting objects:  53% (61/114)   Counting objects:  54% (62/114)   Counting objects:  55% (63/114)   Counting objects:  56% (64/114)   Counting objects:  57% (65/114)   Counting objects:  58% (67/114)   Counting objects:  59% (68/114)   Counting objects:  60% (69/114)   Counting objects:  61% (70/114)   Counting objects:  62% (71/114)   Counting objects:  63% (72/114)   Counting objects:  64% (73/114)   Counting objects:  65% (75/114)   Counting objects:  66% (76/114)   Counting objects:  67% (77/114)   Counting objects:  68% (78/114)   Counting objects:  69% (79/114)   Counting objects:  70% (80/114)   Counting objects:  71% (81/114)   Counting objects:  72% (83/114)   Counting objects:  73% (84/114)   Counting objects:  74% (85/114)   Counting objects:  75% (86/114)   Counting objects:  76% (87/114)   Counting objects:  77% (88/114)   Counting objects:  78% (89/114)   Counting objects:  79% (91/114)   Counting objects:  80% (92/114)   Counting objects:  81% (93/114)   Counting objects:  82% (94/114)   Counting objects:  83% (95/114)   Counting objects:  84% (96/114)   Counting objects:  85% (97/114)   Counting objects:  86% (99/114)   Counting objects:  87% (100/114)   Counting objects:  88% (101/114)   Counting objects:  89% (102/114)   Counting objects:  90% (103/114)   Counting objects:  91% (104/114)   Counting objects:  92% (105/114)   Counting objects:  93% (107/114)   Counting objects:  94% (108/114)   Counting objects:  95% (109/114)   Counting objects:  96% (110/114)   Counting objects:  97% (111/114)   Counting objects:  98% (112/114)   Counting objects:  99% (113/114)   Counting objects: 100% (114/114)   Counting objects: 100% (114/114), done.
-Compressing objects:   1% (1/69)   Compressing objects:   2% (2/69)   Compressing objects:   4% (3/69)   Compressing objects:   5% (4/69)   Compressing objects:   7% (5/69)   Compressing objects:   8% (6/69)   Compressing objects:  10% (7/69)   Compressing objects:  11% (8/69)   Compressing objects:  13% (9/69)   Compressing objects:  14% (10/69)   Compressing objects:  15% (11/69)   Compressing objects:  17% (12/69)   Compressing objects:  18% (13/69)   Compressing objects:  20% (14/69)   Compressing objects:  21% (15/69)   Compressing objects:  23% (16/69)   Compressing objects:  24% (17/69)   Compressing objects:  26% (18/69)   Compressing objects:  27% (19/69)   Compressing objects:  28% (20/69)   Compressing objects:  30% (21/69)   Compressing objects:  31% (22/69)   Compressing objects:  33% (23/69)   Compressing objects:  34% (24/69)   Compressing objects:  36% (25/69)   Compressing objects:  37% (26/69)   Compressing objects:  39% (27/69)   Compressing objects:  40% (28/69)   Compressing objects:  42% (29/69)   Compressing objects:  43% (30/69)   Compressing objects:  44% (31/69)   Compressing objects:  46% (32/69)   Compressing objects:  47% (33/69)   Compressing objects:  49% (34/69)   Compressing objects:  50% (35/69)   Compressing objects:  52% (36/69)   Compressing objects:  53% (37/69)   Compressing objects:  55% (38/69)   Compressing objects:  56% (39/69)   Compressing objects:  57% (40/69)   Compressing objects:  59% (41/69)   Compressing objects:  60% (42/69)   Compressing objects:  62% (43/69)   Compressing objects:  63% (44/69)   Compressing objects:  65% (45/69)   Compressing objects:  66% (46/69)   Compressing objects:  68% (47/69)   Compressing objects:  69% (48/69)   Compressing objects:  71% (49/69)   Compressing objects:  72% (50/69)   Compressing objects:  73% (51/69)   Compressing objects:  75% (52/69)   Compressing objects:  76% (53/69)   Compressing objects:  78% (54/69)   Compressing objects:  79% (55/69)   Compressing objects:  81% (56/69)   Compressing objects:  82% (57/69)   Compressing objects:  84% (58/69)   Compressing objects:  85% (59/69)   Compressing objects:  86% (60/69)   Compressing objects:  88% (61/69)   Compressing objects:  89% (62/69)   Compressing objects:  91% (63/69)   Compressing objects:  92% (64/69)   Compressing objects:  94% (65/69)   Compressing objects:  95% (66/69)   Compressing objects:  97% (67/69)   Compressing objects:  98% (68/69)   Compressing objects: 100% (69/69)   Compressing objects: 100% (69/69), done.
-Writing objects:   1% (1/72)   Writing objects:   2% (2/72)   Writing objects:   4% (3/72)   Writing objects:   5% (4/72)   Writing objects:   6% (5/72)   Writing objects:   8% (6/72)   Writing objects:   9% (7/72)   Writing objects:  11% (8/72)   Writing objects:  12% (9/72)   Writing objects:  13% (10/72)   Writing objects:  16% (12/72)   Writing objects:  18% (13/72)   Writing objects:  19% (14/72), 6.62 MiB | 9.10 MiB/s   Writing objects:  19% (14/72), 8.72 MiB | 5.30 MiB/s   Writing objects:  19% (14/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  20% (15/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  22% (16/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  23% (17/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  25% (18/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  26% (19/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  27% (20/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  29% (21/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  30% (22/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  34% (25/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  36% (26/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  38% (28/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  40% (29/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  41% (30/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  44% (32/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  45% (33/72), 16.33 MiB | 7.61 MiB/s   Writing objects:  45% (33/72), 25.84 MiB | 7.51 MiB/s   Writing objects:  47% (34/72), 25.84 MiB | 7.51 MiB/s   Writing objects:  48% (35/72), 25.84 MiB | 7.51 MiB/s   Writing objects:  50% (36/72), 25.84 MiB | 7.51 MiB/s   Writing objects:  51% (37/72), 25.84 MiB | 7.51 MiB/s   Writing objects:  52% (38/72), 25.84 MiB | 7.51 MiB/s   Writing objects:  54% (39/72), 25.84 MiB | 7.51 MiB/s   Writing objects:  55% (40/72), 25.84 MiB | 7.51 MiB/s   Writing objects:  56% (41/72), 25.84 MiB | 7.51 MiB/s   Writing objects:  58% (42/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  59% (43/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  61% (44/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  62% (45/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  63% (46/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  65% (47/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  66% (48/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  68% (49/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  69% (50/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  70% (51/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  72% (52/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  73% (53/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  75% (54/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  76% (55/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  77% (56/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  79% (57/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  80% (58/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  81% (59/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  83% (60/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  84% (61/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  86% (62/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  87% (63/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  88% (64/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  90% (65/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  91% (66/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  93% (67/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  94% (68/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  95% (69/72), 29.55 MiB | 7.47 MiB/s   Writing objects:  98% (71/72), 29.55 MiB | 7.47 MiB/s   Writing objects: 100% (72/72), 29.55 MiB | 7.47 MiB/s   Writing objects: 100% (72/72), 30.26 MiB | 7.23 MiB/s, done.
-Total 72 (delta 45), reused 0 (delta 0)
-To gitlab.egid.local:mcanouil/PRESENTATION.git
-   02d4003..1253b2e  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss*[K
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   joint_model.Rmd[m
-	[31mmodified:   joint_model.html[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gam ''c'h'a'n'g'e' 'a' 's'e'c't'i'o'n' 't'i't'l'e'
-[master 7896064] change a section title
- 2 files changed, 2 insertions(+), 2 deletions(-)
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gpg
-Enumerating objects: 9, done.
-Counting objects:  11% (1/9)   Counting objects:  22% (2/9)   Counting objects:  33% (3/9)   Counting objects:  44% (4/9)   Counting objects:  55% (5/9)   Counting objects:  66% (6/9)   Counting objects:  77% (7/9)   Counting objects:  88% (8/9)   Counting objects: 100% (9/9)   Counting objects: 100% (9/9), done.
-Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
-Writing objects:  20% (1/5)   Writing objects:  40% (2/5)   Writing objects:  60% (3/5)   Writing objects:  80% (4/5)   Writing objects: 100% (5/5)   Writing objects: 100% (5/5), 1.11 KiB | 1.11 MiB/s, done.
-Total 5 (delta 4), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/4)   [Kremote: Resolving deltas:  25% (1/4)   [Kremote: Resolving deltas:  50% (2/4)   [Kremote: Resolving deltas:  75% (3/4)   [Kremote: Resolving deltas: 100% (4/4)   [Kremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
-To github.com:mcanouil/PRESENTATION.git
-   1253b2e..7896064  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-nothing to commit, working tree clean
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ ll
-total 24148
-drwxr-xr-x 9 mcanouil info     4096 Oct 11 17:33 ./
-drwxrwxr-x 6 mcanouil info     4096 Oct 11 16:47 ../
-drwxrwxrwx 2 mcanouil info     4096 Oct  1 12:35 bib/
--rwxrwxrwx 1 mcanouil info      116 Oct  9 17:33 _build.sh*
--rw-r--r-- 1 mcanouil info        9 Oct  8 18:54 .gitignore
-drwxrwxrwx 2 mcanouil info     4096 Oct 11 17:14 images/
-drwxr-xr-x 3 mcanouil info     4096 Oct 11 16:29 joint_model_cache/
-drwxr-xr-x 2 mcanouil info     4096 Oct 11 17:32 joint_model_files/
--rw-r--r-- 1 mcanouil info 24520062 Oct 11 17:33 joint_model.html
--rwxrwxrwx 1 mcanouil info    52353 Oct 11 17:32 joint_model.Rmd*
--rwxrwxrwx 1 mcanouil info      319 Oct  9 17:34 JointModel.Rproj*
-drwxrwxrwx 2 mcanouil info     4096 Oct  8 18:41 Routput/
-drwxr-xr-x 4 mcanouil info     4096 Sep 18 16:52 .Rproj.user/
-drwxrwxrwx 4 mcanouil info     4096 Oct 11 13:04 template/
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-base:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ llgsspg[K
-Enumerating objects: 9, done.
-Counting objects:  11% (1/9)   Counting objects:  22% (2/9)   Counting objects:  33% (3/9)   Counting objects:  44% (4/9)   Counting objects:  55% (5/9)   Counting objects:  66% (6/9)   Counting objects:  77% (7/9)   Counting objects:  88% (8/9)   Counting objects: 100% (9/9)   Counting objects: 100% (9/9), done.
-Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
-Writing objects:  20% (1/5)   Writing objects:  40% (2/5)   Writing objects:  60% (3/5)   Writing objects:  80% (4/5)   Writing objects: 100% (5/5)   Writing objects: 100% (5/5), 1.11 KiB | 1.11 MiB/s, done.
-Total 5 (delta 4), reused 0 (delta 0)
-To gitlab.egid.local:mcanouil/PRESENTATION.git
-   1253b2e..7896064  master -> master
-sudo r
-^C
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ sudo r[KR
-
-R version 3.5.1 (2018-07-02) -- "Feather Spray"
-Copyright (C) 2018 The R Foundation for Statistical Computing
-Platform: x86_64-pc-linux-gnu (64-bit)
-
-R is free software and comes with ABSOLUTELY NO WARRANTY.
-You are welcome to redistribute it under certain conditions.
-Type 'license()' or 'licence()' for distribution details.
-
-  Natural language support but running in an English locale
-
-R is a collaborative project with many contributors.
-Type 'contributors()' for more information and
-'citation()' on how to cite R or R packages in publications.
-
-Type 'demo()' for some demos, 'help()' for on-line help, or
-'help.start()' for an HTML browser interface to help.
-Type 'q()' to quit R.
-
-sudo R
-
-R version 3.5.1 (2018-07-02) -- "Feather Spray"
-Copyright (C) 2018 The R Foundation for Statistical Computing
-Platform: x86_64-pc-linux-gnu (64-bit)
-
-R is free software and comes with ABSOLUTELY NO WARRANTY.
-You are welcome to redistribute it under certain conditions.
-Type 'license()' or 'licence()' for distribution details.
-
-  Natural language support but running in an English locale
-
-R is a collaborative project with many contributors.
-Type 'contributors()' for more information and
-'citation()' on how to cite R or R packages in publications.
-
-Type 'demo()' for some demos, 'help()' for on-line help, or
-'help.start()' for an HTML browser interface to help.
-Type 'q()' to quit R.
-
-> devtools::install_github('thomasp85/tweenr')
-Downloading GitHub repo thomasp85/tweenr@master
-from URL https://api.github.com/repos/thomasp85/tweenr/zipball/master
-Installing tweenr
-trying URL 'https://cloud.r-project.org/src/contrib/Rcpp_0.12.19.tar.gz'
-Content type 'application/x-gzip' length 3646456 bytes (3.5 MB)
-==================================================
-downloaded 3.5 MB
-
-Installing Rcpp
-'/usr/lib/R/bin/R' --no-site-file --no-environ --no-save --no-restore --quiet  \
-  CMD INSTALL '/tmp/RtmpENSRFN/devtools19062d74183/Rcpp'  \
-  --library='/usr/local/lib/R/site-library' --install-tests 
-
-* installing *source* package ‘Rcpp’ ...
-** package ‘Rcpp’ successfully unpacked and MD5 sums checked
-** libs
-g++  -I"/usr/share/R/include" -DNDEBUG -I../inst/include/     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Date.cpp -o Date.o
-g++  -I"/usr/share/R/include" -DNDEBUG -I../inst/include/     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Module.cpp -o Module.o
-g++  -I"/usr/share/R/include" -DNDEBUG -I../inst/include/     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rcpp_init.cpp -o Rcpp_init.o
-g++  -I"/usr/share/R/include" -DNDEBUG -I../inst/include/     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c api.cpp -o api.o
-g++  -I"/usr/share/R/include" -DNDEBUG -I../inst/include/     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c attributes.cpp -o attributes.o
-g++  -I"/usr/share/R/include" -DNDEBUG -I../inst/include/     -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c barrier.cpp -o barrier.o
-g++ -shared -L/usr/lib/R/lib -Wl,-z,relro -o Rcpp.so Date.o Module.o Rcpp_init.o api.o attributes.o barrier.o -L/usr/lib/R/lib -lR
-installing to /usr/local/lib/R/site-library/Rcpp/libs
-** R
-** inst
-** tests
-** byte-compile and prepare package for lazy loading
-** help
-*** installing help indices
-** building package indices
-** installing vignettes
-** testing if installed package can be loaded
-* DONE (Rcpp)
-'/usr/lib/R/bin/R' --no-site-file --no-environ --no-save --no-restore --quiet  \
-  CMD INSTALL '/tmp/RtmpENSRFN/devtools1901c29e709/thomasp85-tweenr-48ea2fd'  \
-  --library='/usr/local/lib/R/site-library' --install-tests 
-
-* installing *source* package ‘tweenr’ ...
-** libs
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
-gcc -std=gnu99 -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c easing.c -o easing.o
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c interpolators.cpp -o interpolators.o
-g++ -shared -L/usr/lib/R/lib -Wl,-z,relro -o tweenr.so RcppExports.o easing.o interpolators.o -L/usr/lib/R/lib -lR
-installing to /usr/local/lib/R/site-library/tweenr/libs
-** R
-** tests
-** byte-compile and prepare package for lazy loading
-** help
-*** installing help indices
-*** copying figures
-** building package indices
-** testing if installed package can be loaded
-* DONE (tweenr)
-> devtools::install_github('thomasp85/tweenr')[C[C[Kinstall.packages("ggraphe[K")
-Installing package into ‘/usr/local/lib/R/site-library’
-(as ‘lib’ is unspecified)
-also installing the dependency ‘ggforce’
-
-trying URL 'https://cloud.r-project.org/src/contrib/ggforce_0.1.3.tar.gz'
-Content type 'application/x-gzip' length 1489319 bytes (1.4 MB)
-==================================================
-downloaded 1.4 MB
-
-trying URL 'https://cloud.r-project.org/src/contrib/ggraph_1.0.2.tar.gz'
-Content type 'application/x-gzip' length 2607278 bytes (2.5 MB)
-==================================================
-downloaded 2.5 MB
-
-* installing *source* package ‘ggforce’ ...
-** package ‘ggforce’ successfully unpacked and MD5 sums checked
-** libs
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bSpline.cpp -o bSpline.o
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bezier.cpp -o bezier.o
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c deBoor.cpp -o deBoor.o
-g++ -shared -L/usr/lib/R/lib -Wl,-z,relro -o ggforce.so RcppExports.o bSpline.o bezier.o deBoor.o -L/usr/lib/R/lib -lR
-installing to /usr/local/lib/R/site-library/ggforce/libs
-** R
-** inst
-** byte-compile and prepare package for lazy loading
-** help
-*** installing help indices
-** building package indices
-** installing vignettes
-** testing if installed package can be loaded
-* DONE (ggforce)
-* installing *source* package ‘ggraph’ ...
-** package ‘ggraph’ successfully unpacked and MD5 sums checked
-** libs
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c circlePack.cpp -o circlePack.o
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c iciclePlot.cpp -o iciclePlot.o
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c lineCutter.cpp -o lineCutter.o
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pathAttr.cpp -o pathAttr.o
-g++  -I"/usr/share/R/include" -DNDEBUG  -I"/usr/local/lib/R/site-library/Rcpp/include"    -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-udh3fS/r-base-3.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c treemap.cpp -o treemap.o
-g++ -shared -L/usr/lib/R/lib -Wl,-z,relro -o ggraph.so RcppExports.o circlePack.o iciclePlot.o lineCutter.o pathAttr.o treemap.o -L/usr/lib/R/lib -lR
-installing to /usr/local/lib/R/site-library/ggraph/libs
-** R
-** data
-*** moving datasets to lazyload DB
-** inst
-** byte-compile and prepare package for lazy loading
-** help
-*** installing help indices
-** building package indices
-** installing vignettes
-** testing if installed package can be loaded
-* DONE (ggraph)
-
-The downloaded source packages are in
-	‘/tmp/RtmpENSRFN/downloaded_packages’
-> [K> q()
-Save workspace image? [y/n/c]: n
-]0;/disks/PROJECT/Mickael/PRESENTATION/JointModelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/JointModel$ gss
-On branch master
-nothing to commit, working tree clean
-[Kmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ ll
-total 24028
-drwxrwxrwx 9 mcanouil info     4096 Oct 18 17:22 ./
-drwxrwxr-x 6 mcanouil info     4096 Oct 18 12:03 ../
-drwxrwxrwx 2 mcanouil info     4096 Oct  1 12:35 bib/
--rwxrwxrwx 1 mcanouil info      116 Oct  9 17:33 _build.sh*
-drwxrwxrwx 2 mcanouil info     4096 Oct 11 17:14 images/
-drwxrwxrwx 3 mcanouil info     4096 Oct 11 16:29 joint_model_cache/
-drwxrwxrwx 2 mcanouil info     4096 Oct 11 17:32 joint_model_files/
--rwxrwxrwx 1 mcanouil info 24397893 Oct 18 12:05 joint_model.html*
--rwxrwxrwx 1 mcanouil info    52630 Oct 18 12:05 joint_model.Rmd*
--rwxrwxrwx 1 mcanouil info      319 Oct  9 17:34 JointModel.Rproj*
-drwxrwxrwx 2 mcanouil info     4096 Oct  8 18:41 Routput/
-drwxrwxrwx 4 mcanouil info     4096 Sep 18 16:52 .Rproj.user/
-drwxrwxrwx 4 mcanouil info     4096 Oct 18 12:05 template/
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ mv JointModel.Rproj joint_model. Rprog[Kj
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ *[Kgss
-On branch master
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   ../.gitignore[m
-	[31mdeleted:    JointModel.Rproj[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31mjoint_model.Rproj[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ gam [K[Ka
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ gam ''m'o'd'i'f'y' 'g'i't'i'g'n'o'r'e';' 'r'e'n'a'm'e' 'R' [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp''r'o'j'
-[master 46e8e17] modify gitignore; rename Rproj
- 2 files changed, 1 insertion(+)
- rename joint_model/{JointModel.Rproj => joint_model.Rproj} (100%)
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ gp
-fatal: No configured push destination.
-Either specify the URL from the command-line or configure a remote repository using
-
-    git remote add <name> <url>
-
-and then push using the remote name
-
-    git push <name>
-
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ gpg
-fatal: cannot run rpostback-askpass: No such file or directory
-Username for 'https://github.com': mcanouil
-fatal: cannot run rpostback-askpass: No such file or directory
-Password for 'https://mcanouil@github.com': 
-Enumerating objects: 7, done.
-Counting objects:  14% (1/7)   Counting objects:  28% (2/7)   Counting objects:  42% (3/7)   Counting objects:  57% (4/7)   Counting objects:  71% (5/7)   Counting objects:  85% (6/7)   Counting objects: 100% (7/7)   Counting objects: 100% (7/7), done.
-Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
-Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 493 bytes | 493.00 KiB/s, done.
-Total 4 (delta 2), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
-To https://github.com/mcanouil/PRESENTATION.git
-   3c59f5f..46e8e17  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ gss
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   joint_model.Rmd[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ gam ''u'p'd'a't'e' 'g'i't'h'u'b' 's'o'u'r'c'e'
-[master dd43462] update github source
- 1 file changed, 4 insertions(+), 4 deletions(-)
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ gpg
-Enumerating objects: 7, done.
-Counting objects:  14% (1/7)   Counting objects:  28% (2/7)   Counting objects:  42% (3/7)   Counting objects:  57% (4/7)   Counting objects:  71% (5/7)   Counting objects:  85% (6/7)   Counting objects: 100% (7/7)   Counting objects: 100% (7/7), done.
-Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
-Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 394 bytes | 394.00 KiB/s, done.
-Total 4 (delta 3), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
-To https://github.com/mcanouil/PRESENTATION.git
-   46e8e17..dd43462  master -> master
-gss
-On branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   joint_model.Rmd[m
-	[31mmodified:   joint_model.html[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ gam ''r'e'm'o'v'e' 'i'n'c'r'e'm'e'n't'a'l';'[1P'/'b'u'i'l'd'
-gp
-[master f0af3b4] remove incremental/build
- 2 files changed, 48 insertions(+), 48 deletions(-)
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ gp
-fatal: No configured push destination.
-Either specify the URL from the command-line or configure a remote repository using
-
-    git remote add <name> <url>
-
-and then push using the remote name
-
-    git push <name>
-
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ git[K[K[Kgpg
-Username for 'https://github.com': mcanouil
-Password for 'https://mcanouil@github.com': 
-Enumerating objects: 9, done.
-Counting objects:  11% (1/9)   Counting objects:  22% (2/9)   Counting objects:  33% (3/9)   Counting objects:  44% (4/9)   Counting objects:  55% (5/9)   Counting objects:  66% (6/9)   Counting objects:  77% (7/9)   Counting objects:  88% (8/9)   Counting objects: 100% (9/9)   Counting objects: 100% (9/9), done.
-Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
-Writing objects:  20% (1/5)   Writing objects:  40% (2/5)   Writing objects:  60% (3/5)   Writing objects:  80% (4/5)   Writing objects: 100% (5/5)   Writing objects: 100% (5/5), 1.45 KiB | 1.45 MiB/s, done.
-Total 5 (delta 4), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/4)   [Kremote: Resolving deltas:  25% (1/4)   [Kremote: Resolving deltas:  50% (2/4)   [Kremote: Resolving deltas:  75% (3/4)   [Kremote: Resolving deltas: 100% (4/4)   [Kremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
-To https://github.com/mcanouil/PRESENTATION.git
-   c33bdf1..f0af3b4  master -> master
-]0;/disks/PROJECT/Mickael/PRESENTATION/joint_modelmcanouil@stat-user:/disks/PROJECT/Mickael/PRESENTATION/joint_model$ 
