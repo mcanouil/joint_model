@@ -1,0 +1,18 @@
+Package: joint_model
+Title: Jointly Modelling SNPs with Survival & Longitudinal Trait
+Version: 0.0.1
+Imports: 
+  JM,
+  survival,
+  survminer,
+  tidyverse,
+  broom,
+  scales,
+  parallel,
+  grid,
+  knitr,
+  rmarkdown,
+  kableExtra,
+  gganimate,
+  ggrepel,
+  ggraph
